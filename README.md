@@ -32,3 +32,9 @@ The application is hosted on a free hosting service provider.
 
 👉 Access the live application here:
 🔗 https://gilded-valkyrie-3ea2d4.netlify.app/
+
+Demo credentials:
+
+User Name: demo
+
+Password: demo@123
